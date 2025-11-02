@@ -1,0 +1,10 @@
+[
+  "cat_id",
+  "gender",
+  "amount",
+  "population_city",
+  "hour",
+  "dow",
+  "is_weekend",
+  "dist_km"
+]
